@@ -51,19 +51,26 @@ Flac is a lossless audio compressor to save filespace. Decode as follows - eithe
 
 - Alternatively you can use the free command line flac decoder from https://xiph.org/flac/. Having installed flac, use flac -d on each flac file to create the wav files.
 
-* Now assign the speakers.
+* Assign the speakers
 
 There is one file per loudspeaker channel. Arrangement, in a circle:
 
 Front left  - 1
+
 Front  centre - 2
+
 Front  right - 3
+
 Right center - 4 
 
 Back  Right - 5
+
 Back  Center - 6
+
 Back  Left  - 7
+
 Left center - 8
+
 
 PLUS 2 Individual LFE Feeds with different content:-
 
