@@ -1,0 +1,25 @@
+Frozen Voyagers
+Ambrose Field
+
+10 Channels (8.2), 24 bits, 48k
+
+==========================================
+Channels as follows:
+
+Front left .......1
+Front  center ......2
+Front  right .........3
+Right center .........  4 
+Back  Right ............ 5
+Back  Center .... ........6
+Back .  Left  ............  7
+LEFT center ..... ........... 8
+
+PLUS 2 Individual LFE Feeds with different content:-
+
+SUB BASS A -- 9
+SUB BASS B -- 10
+
+==========================================
+
+now go rock the house.
